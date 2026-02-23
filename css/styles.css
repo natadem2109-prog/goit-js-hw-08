@@ -9,6 +9,7 @@
 .gallery-item {
   width: calc((100% - 48px) / 3);
   height: 200px;
+
   overflow: hidden;
 }
 .gallery-image {
